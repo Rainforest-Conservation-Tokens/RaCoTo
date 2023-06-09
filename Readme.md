@@ -49,11 +49,11 @@ A project that rewards rainforest owners with tokens for preserving their land, 
 
 ### PROBLEM 🤷‍♂️
 
-The current Voluntary carbon market (VCM) is hard to access both for individuals and businesses. It lacks transparency,traceability and contains many low-quality carbon compensation projects.
+The voluntary carbon market is flooded with trust-based, intransparent, and illiquid carbon offsets that cannot be easily verified and traded. Many certificates even turn out to be not backed by data.
 
 ### Our Solution 💡
 
-Carbon compensation with RaCoTo is easy, fast and transparent because we utilise blockchain technology. Everyone can compensate for their CO2 footprint instantly, from anywhere in the world, leaving a immutable and ​​traceable record.
+Rainforest Proof-of-Conservation enables direct and immediate audits for everyone by storing real-time satellite observations of forest cover in a tamper-proof, validated, and transparent way in the blockchain.
 
 ## Contract Address
 
