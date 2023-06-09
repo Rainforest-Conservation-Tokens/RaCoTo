@@ -6,6 +6,33 @@
 
 A project that rewards rainforest owners with tokens for preserving their land, helping fight climate change and protect biodiversity.Tokens representing one ton of fixed carbon dioxide, given to registered rainforest owners for conservation efforts. By registering your rainforest with the project and preserving it, you'll receive RaCoTo tokens based on real-time satellite monitoring. They rely on public, tamper-proof blockchain and independent satellite data, ensuring superior integrity and transparency compared to other offsets.
 
+## Contract Address
+
+We are using polygon mumbai 💜 chain for deployment of our infrastructure.
+
+```sh
+CONTRACT ADDRESSES (POLYGON MUMBAI)
+RaCoTo: 0x7ae866bF6C7432D0f4A24d01D24a239c9FDaacBC
+RaCoToGov: 0x99BD41871A3F1E9Cb5a15545aD9265bB87DDcA5A
+RCToken: 0x7128cDaf9391E66d29dc286A6dDb6bD20F97Da6b
+Treasury: 0xf68B22ec17f9Da8551f8AECE4dBBe940c35Ae3C7
+```
+
+## Tech Used
+
+#### Backend & Frontend
+
+- NodeJS
+- TypeScript
+- MongoDB
+- NextJS
+
+#### Smart Contract
+
+- Solidity
+- Chainlink Functions
+- Hardhat
+
 ## How it works ?
 
 ![working](./docs/userdiagram.png)
