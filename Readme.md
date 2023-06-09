@@ -43,7 +43,7 @@ A project that rewards rainforest owners with tokens for preserving their land, 
 - Coordinates
 
 ![LandImage](./hackathonPresentation/DemoUser/LandImageUpload.jpg)
-![RegistrationPageDemo](./hackathonPresentation/RaCoToDemo/RegistrationDemo_RaCoToUI.png)
+![RegistrationPageDemo](./hackathonPresentation/RaCoToDemo/RegistrationDemo_RaCoToUINew.png)
 
 ## What we are solving ?
 
