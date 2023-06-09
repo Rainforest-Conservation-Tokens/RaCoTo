@@ -1,0 +1,8 @@
+# Contract State Link
+https://mumbai.polygonscan.com/address/0xf402df1324b6c143031594f9da668b4e0c6c035c#readContract
+
+# Registration TX
+https://mumbai.polygonscan.com/tx/0x2911379ecb3aeed330b6821fae61c890c70e5c99305578cf8a6105ab46b989e1
+
+# IPFS hash
+https://bafybeic2xui6gdghohbm7r4rrx36q224ydx5oqrsgvoroz4jcl64m7ufxu.ipfs.w3s.link/ea0a3a43-f087-4079-b04a-26021125696d.json
